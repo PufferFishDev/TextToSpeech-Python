@@ -1,4 +1,4 @@
-# TextToSpeech In python (Swedish, English, Spanish) 
+# TextToSpeech In python (Swedish, English, Spanish, You can change the language easy!) 
 
 ## Introduction
 
